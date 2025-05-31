@@ -16,7 +16,7 @@ A beautiful, animated Towers of Hanoi game built with Python and Tkinter.
 1. Make sure you have Python 3.x installed.
 2. Clone this repository:
    ```
-   git clone https://github.com/YOUR_USERNAME/towers-of-hanoi-gui.git
+   git clone https://github.com/Revanthmannari/Towers-of-Hanoii-pythonGUI.git
    ```
 3. Run the game:
    ```
